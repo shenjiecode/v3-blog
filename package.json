@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "daisyui": "^2.13.6",
     "pinia": "^2.0.13",
     "vue": "^3.2.25",
