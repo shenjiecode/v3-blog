@@ -1,6 +1,6 @@
 <template>
     {{ token }}
-    <button class="bg-red-500" @click="changeToken">change</button>
+    <button class="btn" @click="changeToken">change</button>
     <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 </template>
 
